@@ -24,8 +24,8 @@ class SocioRei:
 
         email = self.chrome.find_element(By.XPATH, '/html/body/div/div[2]/div/mat-dialog-container/app-modal-auth/div/mat-dialog-content/div[2]/form/mat-form-field[1]/div/div[1]/div/input')
         senha = self.chrome.find_element(By.XPATH, '/html/body/div/div[2]/div/mat-dialog-container/app-modal-auth/div/mat-dialog-content/div[2]/form/mat-form-field[2]/div/div[1]/div/input')
-        email.send_keys('66688604604')
-        senha.send_keys('santos123')
+        email.send_keys('CPF para login')
+        senha.send_keys('Senha para login')
         logar = self.chrome.find_element(By.XPATH, '/html/body/div/div[2]/div/mat-dialog-container/app-modal-auth/div/mat-dialog-content/div[2]/form/button')
         logar.click()
 
