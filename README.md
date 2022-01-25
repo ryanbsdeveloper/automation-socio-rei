@@ -1,4 +1,4 @@
-# AUTOMAÇÃO DIARIO
+# AUTOMAÇÃO DIÁRIA
 
 ## Sobre
 Automação que é feita diariamente as 14:00hrs para realizar o login no site: https://sociorei.com/ para resgatar o ponto de login diario, com os pontos é possivel resgatar premios e ingressos.
