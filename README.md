@@ -9,7 +9,8 @@ Blibiotecas usadas:
 - Time
 - utils_ry (uma lib pessoal que nela tem uma função de verificar conexão)
 - pyinstaller
-O uso do 'chromedriver.exe' e para abrir o navegador do chrome em modo de automação.
+
+O arquivo chromedriver.exe é um excutavel Que a lib Selenium usa para abrir o chrome em modo de automação, assim podendo fazer todos os comandos.
  
 ### Descrição
 Automação sera executada pelo sistema de 'Agendador de tarefas' do Windows, trasformei o script em um executável, e assim que executado abrirá um console contendo informações.
