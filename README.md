@@ -1,4 +1,5 @@
-# AUTOMAÇÃO DIÁRIA
+### PROJETO PESSOAL
+# AUTOMAÇÃO DIÁRIA :diamond_shape_with_a_dot_inside:
 
 ## Sobre
 Automação que é feita diariamente as 14:00hrs para realizar o login no site: https://sociorei.com/ para resgatar o ponto de login diario, com os pontos é possivel resgatar premios e ingressos.
@@ -23,3 +24,4 @@ Automação sera executada pelo sistema de 'Agendador de tarefas' do Windows, tr
 
 ### Assim que a conexão for encontrada, ele executará.
 ![Trueespreado](https://user-images.githubusercontent.com/94659270/151069656-a73ed99a-08e3-4cf7-bc59-8f4e3d0cf7bc.png)
+### PROJETO PESSOAL
