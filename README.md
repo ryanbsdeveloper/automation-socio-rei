@@ -1,4 +1,4 @@
-### PROJETO PESSOAL
+### *PROJETO PESSOAL*
 # AUTOMAÇÃO DIÁRIA :diamond_shape_with_a_dot_inside:
 
 ## Sobre
@@ -14,14 +14,13 @@ Blibiotecas usadas:
 O arquivo chromedriver.exe é um excutavel Que a lib Selenium usa para abrir o chrome em modo de automação, assim podendo fazer todos os comandos.
  
 ### Descrição
-Automação sera executada pelo sistema de 'Agendador de tarefas' do Windows, trasformei o script em um executável, e assim que executado abrirá um console contendo informações.
+Automação sera executada pelo sistema de 'Agendador de tarefas' do Windows, trasformei o script em um executável, e assim que executado abrirá um console contendo os processo e assim que feito, ele será fechado.
 
 ### Console se a conexao estiver estável!
-![true](https://user-images.githubusercontent.com/94659270/151069457-fc50c770-f7b1-4580-801d-2324f7c2a8f2.png)
+![success](https://user-images.githubusercontent.com/94659270/157948338-b6323756-8ffe-4d56-874b-c24c3b601bc0.png)
 
-### Console se não houver conexão. Ele ficará esperando haver uma conexão para ser executado.
-![esperandoTRue](https://user-images.githubusercontent.com/94659270/151069604-33b79101-7568-4c20-aed2-d73defa05a76.png)
+### se não houver conexão? Ele ficará esperando haver uma conexão para ser executado.
+![semnet](https://user-images.githubusercontent.com/94659270/157948368-5f4680aa-f71f-4911-b470-0061708e61f3.png)
 
-### Assim que a conexão for encontrada, ele executará.
-![Trueespreado](https://user-images.githubusercontent.com/94659270/151069656-a73ed99a-08e3-4cf7-bc59-8f4e3d0cf7bc.png)
-### PROJETO PESSOAL
+### Assim que a conexão for encontrada, o bot iniciará!
+![successtwo](https://user-images.githubusercontent.com/94659270/157948398-159bf3a5-f5eb-4e0c-b3d6-6faf378c9765.png)
