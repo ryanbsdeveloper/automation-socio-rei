@@ -77,7 +77,7 @@ if __name__ == '__main__':
         while True:
             if checkNet():
                 print()
-                sleep(5)
+                sleep(2)
                 print('\033[1;32mACESSO SUCEDIDO!\033[m')
                 try:
                     print()
@@ -85,18 +85,17 @@ if __name__ == '__main__':
                     sociorei = SocioRei()
                     sociorei.open_site('https://www.sociorei.com/')
                     sociorei.enter_account()
-                    sleep(10)
+                    sleep(5)
                     sociorei.exit()
 
                 except Exception as error: 
                     print('\033[1;31mAlgo inesperado aconteceu\033[m, Tentando novamente. Aguarde... ')
-                    sleep(3)
                     print()
                     print('Iniciando o Bot...')
                     sociorei = SocioRei()
                     sociorei.open_site('https://www.sociorei.com/')
                     sociorei.enter_account()
-                    sleep(3)
+                    sleep(5)
                     sociorei.exit()
 
                 else:
