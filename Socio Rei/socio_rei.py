@@ -13,8 +13,8 @@ class SocioRei:
     def __init__(self):
         service = Service(executable_path=ChromeDriverManager().install())
         options = webdriver.ChromeOptions()
-        # options.add_argument(r'--incognito') #Janela anonima
-        options.add_argument('--headless') #Esconder Janela
+        # options.add_argument(r'--incognito') # Habilita janela anônima
+        options.add_argument('--headless') # Esconder Janela
         options.add_experimental_option('excludeSwitches', ['enable-logging'])
         self.chrome = webdriver.Chrome(service=service, options=options)
 
