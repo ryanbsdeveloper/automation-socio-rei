@@ -1,8 +1,6 @@
 ### *Projeto pessoal*
 
-
-
-![logo-socio-rei](/home/ryanl/Downloads/logo-socio-rei.png)
+![logo-socio-rei](https://user-images.githubusercontent.com/94659270/177875519-342a56ea-7e31-4183-bf2b-5b0af698bb78.png)
 
 # Bot de login diário (2.0) 🤖
 
